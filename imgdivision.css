@@ -1,0 +1,10 @@
+.imgdivision{
+height :80vh;
+width :53vw;
+border-style : solid;
+border-color : white;
+background-image : url("loginimage.jpg");
+background-repeat : no-repeat;
+background-size :  99vw 80vh;
+padding-left : 45vw;
+}
